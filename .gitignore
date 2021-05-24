@@ -1,0 +1,6 @@
+out/csv/*
+out/xml/*
+
+vendor
+
+composer.lock
